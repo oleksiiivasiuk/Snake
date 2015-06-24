@@ -1,3 +1,3 @@
 # Snake
 Snake game
-snakejs.netau.net
+http://snakejs.netau.net
